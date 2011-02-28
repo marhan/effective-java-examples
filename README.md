@@ -1,5 +1,8 @@
-# Effective Java
+# Effective Java Examples
 
-Diese Quellen stammen aus dem Buch "Effective Java Second Edition", geschrieben von Joshua Bloch.
+Diese Quelltexte stammen aus dem Buch "Effective Java Second Edition", geschrieben von Joshua Bloch.
 
-Ich habe die Quellen unverändert gelassen. Lediglich die Packages heissen etwas anders und sind nun Java-Konform.
+Die Quellen sind beinahe unverändert. Lediglich die Packetnamen wurden von mir angepasst.
+
+Die Originalquellen können hier herunter geladen werden: http://java.sun.com/docs/books/effective/index.html
+
